@@ -17,12 +17,9 @@ html{
 .ganesh,h1{
     color: white;
 }
-img{
-    width:50px;
+.ganesh-icon{
+    width:60px;
     
-}
-.image{
-    margin: auto;
 }
 .education{
  
@@ -64,7 +61,13 @@ h3{
 }
 .data{
     padding-top: 2px;
-    padding-left: 25px;
+    padding-left: 0px;
+    margin:0px ;
+
+}
+.data-title{
+    padding-top: 2px;
+    padding-left: 20px;
     margin:0px ;
 
 }
